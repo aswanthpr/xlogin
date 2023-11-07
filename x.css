@@ -1,0 +1,282 @@
+.body{
+    margin: 0px;
+    background-color: rgb(234, 117, 117);
+    cursor:default;
+    align-self: auto;
+}
+
+
+.container{
+    background:#FFFFFF;
+    height: 100%;
+    margin: 0px;
+    width: auto;
+    align-self: auto;
+}
+
+.left-body{
+    width: 49%;
+    height: 727px;
+    float: left;
+    padding-left: 111px;
+    padding-top: 41px;
+    margin: 0px;
+    align-self:auto;
+}
+.right-body{
+    width: 43%;
+    height: 729px;
+    float: left;
+    padding-left: 8px;
+    padding-top: 39px;
+    margin: 0px;
+    align-self: auto;
+   
+}
+.x-logo{
+    width: 580px;
+    font-size: 15px;
+    color-scheme: light;
+    height: auto;
+      cursor: pointer;
+      align-self:flex-start;
+}
+.rd1{
+    width: 97%;
+    height: 552px;
+    align-self: auto;
+}
+
+.rd11{
+    width: 95%;
+    height: 88px;
+}
+.rd12{
+    width: 80%;
+    height: 80px;
+
+}
+.rd13{
+    width: 50%;
+    height: 350px;
+
+}
+.rd131{
+    width: 100%;
+    height: 50px;
+}
+.rd132{
+    width: 100%;
+    height: 43px;
+ 
+
+}
+.rd133{
+     width: 52%;
+    height: 11px;
+    padding-bottom: 21px;
+    float: inline-end;
+    padding-left: 127px;
+    font-size: 12px;
+    font-weight: 400;
+    padding-right: 17px;
+}
+.rd134{
+    width: 100%;
+    height: 41px;
+   
+    float: inline-end;
+
+}
+.rd135{
+    width: 100%;
+    height: 50px;
+    float: inline-end;
+
+}
+.rd136{
+    width: 100%;
+    height: 80px;
+    float: inline-end;
+    padding-top: 30px;
+
+}
+.rd1361{
+    width: 100%;
+    height: 40px;
+    float: inline-end;
+   
+
+}
+.rd1362{
+    width: 100%;
+    height: 51px;
+    float: inline-end;
+    padding-top: 17px;
+
+}
+#happen{
+    font-size: 64px;
+    font-family:TwitterChirpExtendedHeavy, Verdana, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    letter-spacing: -1.3px;
+    height:100px;
+
+}
+#join{
+    font-size:31px;
+    font-family:BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    letter-spacing: -1.2px;
+    font-weight: 900;
+    padding-top: 8px;
+  
+   
+} 
+.signup{
+   width: 300px;
+   height: 40px;
+    border-radius:300px ;
+    border-color: rgb(232, 221, 221);
+    border-width: 1px;
+    border-width: 1px;
+     border-bottom-width: 1px;
+     border-top-width: 1px;
+     border-left-width: 1px;
+     border-right-width: 1px;
+     border-left-style:solid ;
+     border-right-style:solid ;
+     border-top-style: solid;
+     border-bottom-style:solid ;
+     background-color: #FFFFFF;
+    
+}
+.signuptext{
+    font-family: "Google Sans",arial,sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.25px;
+    color: #3c4043;
+    font: inherit;
+    vertical-align: top;
+    font-size: 14px;
+    text-decoration: none;
+    
+
+}
+.signuptext1{
+    font-family: "Google Sans",arial,sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.25px;
+    color: #3c4043;
+    font-size: 15px;
+    text-decoration: none;
+    
+}
+.or{
+    font-size: 15px;
+    line-height: 20px;
+    font-family: "TwitterChirp",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color:rgb(83,100,113) ;
+}
+.create{
+    width: 300px;
+    height: 40px;
+     border-radius:300px ;
+     border-color:rgb(29,155,240);
+     border-width: 1px;
+     border-bottom-width: 1px;
+     border-top-width: 1px;
+     border-left-width: 1px;
+     border-right-width: 1px;
+     border-left-style:solid ;
+     border-right-style:solid ;
+     border-top-style: solid;
+     border-bottom-style:solid ;
+     background-color: rgb(29,155,240);
+
+     
+}
+.createtext{
+    font-size: 15px;
+    font-weight: 700;
+    color: rgb(255,255,255);
+    font-style: inherit;
+    font-family: "TwitterChirp",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    text-decoration: none;
+}
+.signinbutton{
+    width: 300px;
+    height: 40px;
+     border-radius:300px ;
+     border-bottom-width: 1px;
+     border-top-width: 1px;
+     border-left-width: 1px;
+     border-right-width: 1px;
+     border-left-style:solid ;
+     border-right-style:solid ;
+     border-top-style: solid;
+     border-bottom-style:solid ;
+     border-color: rgb(232, 221, 221);
+     background-color: #FFFFFF;
+     cursor: pointer;
+     .signinbutton:hover{
+        background-color: rgb(171, 208, 232);
+     }
+     
+}
+.signintext{
+    font-size: 15px;
+    font-weight: 700;
+    color: rgb(29,155,240);
+    text-decoration: none;
+}
+.agrement{
+    color:rgb(83,100,113);
+    font-size: 11px;
+    padding-left: 4px;
+    font-family: "TwitterChirp",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+}
+.aglink{
+    text-decoration-line:none ;
+}
+
+.already{
+    font-size:15px ;
+    font-family:"TwitterChirp",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-weight:700 ;
+}
+.footer{
+    width:100%;
+    height:42px ;
+    float: inline-end;
+    display:flex;
+    display:inline-flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+  text-align: auto;
+}
+
+.footertext{  
+    font-size:13px;
+    font-weight: 400;
+    font-family:"TwitterChirp",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    text-decoration:none;
+    color:rgb(83,100,113) ;
+}
+.footer2{
+    width:100%;
+    height:35px ;
+    display:flex;
+    justify-content:center;
+    flex-direction: row;
+    align-self: auto;
+}
+
+
+#googlelogo{
+    width: 17px;
+    padding-right :5px;
+}
+#applelogo{
+    width: 17px;
+    padding-right: 5px;
+}
